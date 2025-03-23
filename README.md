@@ -21,3 +21,4 @@ weights for the Nearest Neighbour Algorithm. Implement at
 least one mechanism for maintaining Diversity within the
 Population 
 6. Deploy your model as a RESTful Web Service 
+![image](https://github.com/user-attachments/assets/8e6c19a7-23df-4bea-a1f5-a3b5b2397bea)
